@@ -1,4 +1,3 @@
-![App Screenshot](assets/images/travel-buddy-logo.png)
 
 ** Explorer's Edge** is a Flutter app that helps users explore and mark locations on a Google Map based on Foursquare categories. The app integrates Firebase Authentication for user management and Cloud Firestore for storing user-specific favorites.
 
@@ -37,16 +36,10 @@
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/belenyb/travel_buddy.git
-   cd travel_buddy
-   ```
+ 
 
 2. Install the dependencies:
-   ```bash
-   flutter pub get
-   ```
-
+  
 3. Configure Firebase:
 
 - Create a Firebase project in the Firebase Console.
